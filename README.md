@@ -11,15 +11,15 @@ Sales Performance Analysis for a Retail Store
 ### Outline
 [Project Overview](#project-overview)
 
-Data Source
+[Data Source](#data-source)
 
-Tools used
+[Tools used](#tools-used)
 
-Data Cleaning and Preparations
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-Exploratory Data Analysis
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-Data Analysis
+[Data Analysis](#data-analysis)
 
 
 ### Project Overview
