@@ -9,7 +9,7 @@ This is the Capstone Project for your Data Analysis course with the Incubator Hu
 Sales Performance Analysis for a Retail Store
 
 ### Outline
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
 Data Source
 
