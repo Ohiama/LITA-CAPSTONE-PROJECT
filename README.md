@@ -56,4 +56,6 @@ The primary source of data used here is salesdata.xlsx sourced from  LITA Capsto
    
     ### Data Analysis
     
-    This is where we include some basic lines of codes or queries or even DAX expression
+    This is where we include some basic lines of codes or queries or even DAX expression are included.
+
+    
