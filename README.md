@@ -6,7 +6,21 @@ This is the Capstone Project for your Data Analysis course with the Incubator Hu
 
 ### Project Title
 
-Sales Performance Analysis for a Retail Store 
+Sales Performance Analysis for a Retail Store
+
+### Outline
+[Project Overview](project-overview)
+
+Data Source
+
+Tools used
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+Data Analysis
+
 
 ### Project Overview
 In this project, I analyzed the sales performance of a retail store such as top-selling products, regional 
